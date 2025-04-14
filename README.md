@@ -1,2 +1,2 @@
 # simon-game
-simon-game using js
+simon-game using java script
